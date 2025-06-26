@@ -11,7 +11,7 @@ import Container from './Container'
 const Header = () => (
     <header className="bg-headerColor py-2">
         <Container>
-            <div className="lg:flex items-center">
+            <div className="lg:flex items-center px-6">
                 <div className="w-full lg:w-3/12">
                     <div className="flex items-center gap-2 justify-center lg:justify-start">
                         <MdOutlineMailLock className='text-white' />

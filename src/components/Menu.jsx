@@ -15,12 +15,12 @@ const Menu = () => {
     return (
         <div className='bg-menuColor py-7'>
             <Container>
-                <div className="flex items-center px-3 lg:px-0 text-center">
+                <div className="flex items-center px-3 lg:px-6 text-center">
                     <div className="w-4/12">
                         <img src={logo} alt="logo" />
                     </div>
                     <div className="w-8/12">
-                        <ul className={`lg:flex justify-end lg:static lg:py-0 py-2 ${show == true ?
+                        <ul className={`lg:flex justify-end lg:static z-[1000] lg:py-0 py-2 ${show == true ?
                                 'bg-headerColor absolute left-0 top-[174px] duration-700 ease-in-out w-full' :
                                 'absolute left-0 top-[174px] opacity-0 lg:opacity-100 duration-200 ease-in-out w-full'
                                 // 'bg-[green] absolute left-0 top-[174px] w-full' :
