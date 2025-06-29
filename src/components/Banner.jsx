@@ -4,7 +4,7 @@ import Container from './Container';
 
 const Banner = () => {
   return (
-    <div className="bg-cover bg-center bg-no-repeat lg:py-70 py-[80px] relative z-[1] after:absolute after:left-0 after:top-0 after:content-[''] after:h-[100%] after:w-full after:bg-[#00000037] after:z-[-1] "
+    <div className="bg-cover bg-center bg-no-repeat lg:py-70 py-[80px] relative z-[1] after:absolute after: left-0 after:top-0 after:content-[''] after:h-[100%] after:w-full after:bg-[#00000037] after:z-[-1] "
       style={{ backgroundImage: `url(${bannerImg})` }}
     >
       <Container>
