@@ -1,4 +1,4 @@
-import caroselImg from "../assets/Carosel.png"
+import caroselImg from "../assets/carosel.png"
 import Container from './Container'
 
 const Carosel = () => {

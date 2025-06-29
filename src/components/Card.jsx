@@ -1,6 +1,6 @@
-import group1 from "../assets/group 1.png"
-import group2 from "../assets/group 2.png"
-import group3 from "../assets/group 3.png"
+import group1 from "../assets/group1.png"
+import group2 from "../assets/group2.png"
+import group3 from "../assets/group3.png"
 import Container from './Container'
 
 const Card = () => {

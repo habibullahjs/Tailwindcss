@@ -6,8 +6,8 @@ import { FaTwitter } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa6";
 import { FaInstagramSquare } from "react-icons/fa";
 import { FaLocationDot } from "react-icons/fa6";
-import cart1 from "../assets/cert1.png"
-import cart2 from "../assets/cert2.png"
+import cart1 from "../assets/Cert1.png"
+import cart2 from "../assets/Cert2.png"
 import Container from './Container'
 
 const Footer = () => {
