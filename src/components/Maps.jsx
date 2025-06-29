@@ -1,4 +1,4 @@
-import mapsImg from "../assets/maps.png"
+import mapsImg from "../assets/Maps.png"
 import Container from "./Container"
 
 const Maps = () => {
