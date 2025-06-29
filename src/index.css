@@ -7,4 +7,9 @@
     --font-popins:"Poppins", sans-serif;
     --color-menuColor:rgba(244, 4, 4, 1);
     --color-buttonColor: rgba(244, 4, 4, 1);
+    --color-biggest: rgba(108, 108, 108, 1);
+    --color-companyBg: #F0F0F0;
+    --color-cardbtn: rgba(255, 255, 255, 0.5);
+    --color-copyright: rgba(40, 40, 40, 1);
+    --color-footbg: rgba(31, 31, 31, 1);
 }

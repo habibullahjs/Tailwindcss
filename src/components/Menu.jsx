@@ -21,8 +21,8 @@ const Menu = () => {
                     </div>
                     <div className="w-8/12">
                         <ul className={`lg:flex justify-end lg:static z-[1000] lg:py-0 py-2 ${show == true ?
-                                'bg-headerColor absolute left-0 top-[174px] duration-700 ease-in-out w-full' :
-                                'absolute left-0 top-[174px] opacity-0 lg:opacity-100 duration-200 ease-in-out w-full'
+                                'bg-headerColor absolute left-0 top-[174px] duration-500 ease-in-out w-full' :
+                                'absolute left-0 top-[174px] opacity-0 lg:opacity-100 duration-500 ease-in-out w-full'
                                 // 'bg-[green] absolute left-0 top-[174px] w-full' :
                                 // 'bg-[gray] absolute left-[-380px] top-[174px] w-full'
                             }`}>
