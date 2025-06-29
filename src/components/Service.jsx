@@ -1,6 +1,6 @@
 import service1 from "../assets/Services1.png"
-import service2 from "../assets/services2.png"
-import service3 from "../assets/services3.png"
+import service2 from "../assets/Services2.png"
+import service3 from "../assets/Services3.png"
 
 const Service = () => {
     return (
