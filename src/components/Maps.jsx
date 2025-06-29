@@ -14,7 +14,7 @@ const Maps = () => {
                         <h3 className= " ml-8 lg:text-start lg:pb-0 pb-5 text-center font-popins font-bold text-[20px] lg:text-[27px] text-white">Want to join as member branch in your area?</h3>
                         </div>
                         <div className= " w-full lg:w-4/12">
-                        <a className= "py-[13px] px-[32px]  text-center mx-auto border-1 border-white block w-fit text-white " href="#">CONTACT</a>
+                        <a className= "py-[13px] px-[32px]  text-center mx-auto border border-white block w-fit text-white " href="#">CONTACT</a>
                         </div>
                     </div>
 

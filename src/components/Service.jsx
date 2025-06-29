@@ -10,7 +10,7 @@ const Service = () => {
                     <h2 className=' font-bold lg:text-[64px] mt-[80px] text-[40px] font-popins'>Our Services</h2>
                     <p className='font-[500] lg:text-start lg:text-[16px] font-popins lg:px-2 lg:pr-[130px] lg:pl-[130px] text-biggest'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                 </div>
-                <div className="lg:w-[50%] w-full lg:h-[410px] h-[210px] bg-cover bg-center bg-no-repeat" style={{ backgroundImage: `url(${service1}` }}>
+                <div className="lg:w-[50%] w-full lg:h-[410px] h-[210px] bg-cover bg-center bg-no-repeat" style={{ backgroundImage: `url(${service1})` }}>
                     <h3 className="text-white lg:text-[36px] text-center pt-20 font-bold font-popins lg:ml-[116px] lg:mt-[80px] pb-6">Modern natural oil and gas refineries.</h3>
                     <a className="bg-buttonColor text-white text-center px-6 py-2 hover:bg-red-700  block mx-auto w-fit" href="#">
                         Learn more
